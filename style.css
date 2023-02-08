@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+p {
+  color: white;
+  font-size: 10;
+  font-family: "VT323 Regular", Arial, sans-serif;
+  line-height: 50%;
+}
+ @font-face {
+    font-family: 'VT323 Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('VT323 Regular'), url('VT323-Regular.woff') format('woff');
+    }
